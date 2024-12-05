@@ -10,16 +10,6 @@ All the data is presented in CSV format.
 
 `A Survey of Pull Request Description.csv`: The questionnaire result of pull request description-related practices. 
 
-`stat_data.csv`: The data which is used for two regression experiments(RDD). This file can be directly imported in our code.
-
-### Code Description
-
-`regress.R`: The code of  two regression experiments(RDD). To run this code, you must import these packages:
-
-```R
-install.packages(c("lmerTest", "MuMIn", "car"))
-```
-
 The explanatory variables for regression are as follows:
 
 | Variable        | Description                                                  |
