@@ -1,4 +1,4 @@
-# Modifying_PR
+# PR_description
 
 The dataset and code of "How to Write Pull Request Descriptions: An Empirical Study on Modifying Pull Request Descriptions", which can be used to study how to write good pull request descriptions.
 
