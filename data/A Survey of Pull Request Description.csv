@@ -1,0 +1,73 @@
+﻿ID,Start_Time,Complete_Time,What kind of contributor are you?,"Importance of ""State the motivation.""","Difficulty of ""State the motivation.""","Importance of ""Link to the related issue.""","Difficulty of ""Link to the related issue.""","Importance of ""Describe the bug that needs to be fixed.""","Difficulty of ""Describe the bug that needs to be fixed.""","Importance of ""Describe the functionality of pull requests.""","Difficulty of ""Describe the functionality of pull requests.""","Importance of ""Fill in information for release note.""","Difficulty of ""Fill in information for release note.""","Importance of ""Clarify the effect of the pull request.""","Difficulty of ""Clarify the effect of the pull request.""","Importance of ""Explain the trade-offs.""","Difficulty of ""Explain the trade-offs.""","Importance of ""Explain the technical details.""","Difficulty of ""Explain the technical details.""","Importance of ""Provide testing information in the description.""","Difficulty of ""Provide testing information in the description.""","Importance of ""Update the checklist.""","Difficulty of ""Update the checklist.""","Importance of ""Follow the format requirements.""","Difficulty of ""Follow the format requirements.""","Importance of ""Delete content in the pull request template.""","Difficulty of ""Delete content in the pull request template.""","Are there any other practices about pull request description that you consider important but we missed? If there are, please provide."
+1,11/21/23 11:00:25,11/21/23 11:49:51,Write code and review code,Most,No,Most,No,Most,No,More,Medium,More,Medium,More,Medium,More,No,More,More,Most,Slight,Most,No,Most,No,Most,Slight,"Based on my experience, there are a few additional practices that could further enhance the quality and clarity of pull request descriptions:
+
+
+1. Contextual Background: Provide some historical or contextual background if the pull request relates to a long-standing issue or is part of a larger feature set. This helps reviewers understand where this piece fits in the larger puzzle.
+
+2. Visual Evidence: For UI changes, include screenshots or video links. Visual evidence can quickly convey the impact of changes and assist reviewers who might not be able to run the code immediately.
+
+3. Performance Impact: If applicable, mention any performance implications. For instance, if the pull request improves or degrades performance, providing benchmarks or profiling data can be very helpful.
+
+4. Dependencies and Integration: Specify if the pull request adds new dependencies or requires changes in other parts of the system. This is crucial for understanding the broader impact of the change.
+
+5. Backward Compatibility and Migration Path: If the pull request introduces breaking changes, describe the migration path for existing codebases. This includes detailing any deprecations and the steps for users to adapt to the changes.
+
+6. Risks and Mitigations: Discuss any potential risks associated with the pull request and the steps taken to mitigate them. This includes security considerations, potential regressions, or impacts on stability.
+
+7. Acknowledgment of Collaborators: If the pull request was developed in collaboration with others or based on community contributions, acknowledging these contributors fosters a positive community spirit.
+
+8. Reference to Coding Standards: If applicable, reference specific coding standards or guidelines followed, especially if the project adheres to particular coding styles or best practices."
+2,11/21/23 13:50:29,11/21/23 13:54:03,Write code and review code,Most,No,Medium,No,More,More,More,More,More,Medium,Most,More,Medium,Medium,More,Most,More,No,Slight,Medium,Most,No,Most,No,
+3,11/21/23 15:55:46,11/21/23 16:06:19,Write code and review code,Most,Medium,More,No,More,Medium,Most,Medium,Slight,Slight,Most,Slight,More,Slight,More,More,Slight,Medium,Medium,No,Slight,No,Slight,No,"It is a comprehensive list. Some projects automatically add the PR description as comment for the merge commit. In such case some one might want to move some of the content described above (like checklist) to a separate comment, and keep the most relevant information in the description."
+4,11/22/23 12:58:03,11/22/23 12:59:58,Write code and review code,Most,Medium,Most,No,Most,Slight,Most,More,Slight,More,Slight,More,More,More,Slight,Most,No,No,Slight,More,Slight,More,More,Slight,
+5,11/22/23 13:00:48,11/22/23 13:04:17,Write code and review code,Most,Medium,More,Slight,More,Medium,Medium,Medium,Slight,Slight,Medium,Medium,Medium,More,Slight,More,Medium,More,Slight,Slight,More,Slight,Slight,Slight,Relevant collaborators or reviewers. Docs
+6,11/22/23 13:13:40,11/22/23 13:15:32,Write code and review code,More,More,Most,Slight,More,Slight,More,Slight,Medium,Slight,Medium,Slight,Medium,Slight,More,More,Medium,Slight,Medium,Slight,Medium,Slight,More,Slight,
+7,11/22/23 14:03:25,11/22/23 14:10:55,Write code and review code,Most,Medium,More,Slight,Slight,Medium,More,Medium,Medium,More,More,Medium,Medium,Medium,More,Slight,Slight,Medium,Medium,Slight,More,Medium,More,No,
+8,11/22/23 13:52:14,11/22/23 14:20:03,Write code and review code,Most,More,More,More,More,More,More,More,Medium,Medium,More,More,Medium,Medium,Medium,Medium,More,More,Medium,Medium,More,More,More,More,"It's better to provide a proposal to describe your design, implementation and further plan."
+9,11/22/23 14:35:57,11/22/23 14:40:54,Only write code,More,Medium,More,No,More,Slight,More,Medium,More,Slight,Most,Slight,More,Medium,More,More,Medium,Slight,Medium,No,More,Slight,Medium,No,
+10,11/22/23 15:38:40,11/22/23 15:46:43,Write code and review code,Most,Medium,Most,No,More,More,Slight,Medium,Most,Slight,Most,Medium,More,More,No,Most,No,Medium,More,Medium,Most,No,Medium,No,"Big code changes should be discussed and documented in KEP, not in a PR description."
+11,11/22/23 15:47:35,11/22/23 15:49:47,Write code and review code,Most,Medium,More,No,More,Slight,More,Slight,Medium,Medium,More,Slight,More,Most,More,More,Medium,Most,Slight,Slight,Medium,More,Medium,No,
+12,11/22/23 19:36:55,11/22/23 19:40:52,Write code and review code,Medium,More,Most,Slight,More,More,Medium,Most,Slight,More,Medium,More,Medium,Medium,Slight,More,Slight,More,Slight,Slight,More,Slight,Medium,Slight,
+13,11/22/23 22:00:30,11/22/23 22:04:17,Write code and review code,Medium,Slight,Most,Slight,Most,Slight,Slight,More,Slight,More,Medium,Slight,More,Slight,More,More,No,Slight,Slight,Medium,No,Medium,Slight,Slight,"More experienced people usually just delete the template. The PR description, except for umbrella issues, usually never changes, even if the PR changes dramatically in the comments. "
+14,11/22/23 22:41:45,11/22/23 22:54:40,Write code and review code,More,Medium,Most,No,Most,Slight,Slight,Medium,Medium,No,More,Slight,Most,Medium,More,More,Medium,Medium,Most,No,Most,Slight,Slight,No,
+15,11/22/23 22:48:17,11/22/23 22:55:53,Write code and review code,Most,No,More,No,More,Slight,More,Medium,Medium,No,More,Slight,More,Medium,Medium,Medium,Medium,Slight,More,No,Most,Slight,Medium,No,
+16,11/22/23 23:55:08,11/22/23 23:58:07,Write code and review code,More,Medium,Most,No,More,Slight,Slight,More,No,Medium,More,Medium,More,More,More,More,Medium,Medium,Slight,No,Medium,No,More,No,
+17,11/23/23 3:04:40,11/23/23 3:08:01,Write code and review code,Most,More,More,No,Most,Most,Slight,Slight,Most,Medium,Most,Most,Most,Most,Medium,More,More,More,Slight,Slight,Most,Slight,Medium,No,
+18,11/23/23 12:09:15,11/23/23 12:11:32,Write code and review code,Most,Medium,More,Slight,Most,Slight,Medium,Medium,Medium,Medium,Most,Medium,More,Medium,More,Medium,Most,Medium,Most,Slight,Most,Medium,Medium,No,
+19,11/23/23 12:13:51,11/23/23 12:17:08,Write code and review code,Most,More,Most,Medium,Most,Medium,Medium,Medium,Slight,Medium,Most,Slight,Most,Slight,Most,Slight,Slight,Medium,Slight,Slight,More,Slight,Medium,Medium,
+20,11/23/23 12:28:25,11/23/23 12:38:56,Only write code,More,Medium,Most,No,Most,Slight,Most,Medium,More,Medium,More,Slight,Most,Medium,Most,Medium,Most,Medium,More,Slight,More,Slight,More,Slight,
+21,11/23/23 14:22:06,11/23/23 14:23:50,Write code and review code,More,More,More,No,Most,Medium,More,Slight,Medium,Medium,Medium,Medium,Most,Medium,Most,More,Slight,Medium,Most,No,Medium,No,No,No,
+22,11/23/23 14:37:51,11/23/23 14:40:27,Write code and review code,More,More,Medium,Slight,More,Slight,Slight,More,No,Most,Medium,Slight,More,Medium,Slight,More,No,Medium,No,Slight,More,Medium,More,Medium,
+23,11/23/23 14:22:18,11/23/23 14:40:29,Write code and review code,Most,Medium,Most,No,Most,Medium,More,Medium,Most,More,More,More,Medium,Medium,Most,More,Medium,More,More,Slight,Most,Slight,More,Slight,
+24,11/23/23 15:39:51,11/23/23 15:43:20,Only write code,More,More,Most,Slight,More,Medium,Medium,Medium,Medium,Slight,More,More,Slight,More,More,Medium,Medium,Slight,No,More,Slight,Medium,More,No,
+25,11/23/23 15:37:55,11/23/23 15:46:48,Write code and review code,Most,Medium,Most,No,Most,Most,Most,More,Slight,Medium,Most,More,Most,Medium,Medium,Medium,More,Most,Slight,Medium,Slight,Slight,Slight,No,"A good practice may involve links to examples or patterns used in different projects that are similar to the one you are creating the PR for. Sometimes PRs are inspired by features other similar projects have.
+
+For example, you are doing a PR to Cypress to include a new feature or to improve an existing API. Linking to a similar pattern in Plawright may be useful."
+26,11/23/23 16:50:43,11/23/23 16:54:38,Write code and review code,Most,More,Most,No,Most,More,More,Medium,More,Medium,Most,More,Most,More,Most,More,No,No,No,No,Most,More,Most,More,
+27,11/23/23 21:33:33,11/23/23 21:36:09,Write code and review code,More,Medium,More,Slight,More,More,No,Most,Slight,More,Medium,More,Most,More,Most,More,Medium,Medium,Slight,Slight,Most,Slight,Most,Slight,
+28,11/23/23 21:42:11,11/23/23 21:43:48,Write code and review code,Most,Slight,More,No,More,Slight,Medium,Medium,No,Medium,Medium,Medium,Medium,More,Medium,Most,Slight,Medium,No,No,No,No,No,No,
+29,11/23/23 23:30:57,11/23/23 23:35:04,Only write code,More,Medium,Most,No,More,Slight,More,Medium,Medium,More,Most,Medium,Medium,Medium,More,Medium,More,Most,Most,Slight,More,Medium,More,No,"I personally think when writing performance or memory improvements related PRs , I think better even add how it impact end users(clients) too."
+30,11/24/23 7:07:20,11/24/23 7:16:21,Write code and review code,Most,Slight,Most,No,More,Slight,Medium,Medium,Medium,Medium,Medium,Medium,Slight,Slight,More,More,More,Medium,Slight,No,Most,Slight,Slight,No,"Follow the contribution guidelines for the project. For example in the Flutter repo, they require unit tests that test the change you are making to be included with the PR. This is often overlooked by contributors that just want to fix their issue.
+
+Also for UI related changes it is very helpful to have before and after screen shots in the description of the PR so that reviewers and the community can quickly see what you are fixing/changing.
+"
+31,11/24/23 9:32:49,11/24/23 9:35:21,Write code and review code,Medium,Medium,Medium,No,Medium,Medium,Slight,More,No,More,Medium,Medium,Slight,More,Slight,Most,Slight,Slight,Medium,No,More,Medium,More,No,"The pull request description should be enough that you can figure out what the PR is about five years later when doing archeology, and it should be enough for a reviewer to orient themselves when they review it. Beyond that, I think it's often an overrated consideration."
+32,11/24/23 14:51:58,11/24/23 14:53:30,Write code and review code,Most,Medium,More,More,Most,Most,Medium,Medium,More,Medium,Most,More,More,More,Medium,Medium,More,More,Medium,Medium,Most,Most,Most,Most,
+33,11/24/23 21:10:30,11/24/23 21:18:59,Write code and review code,Most,Slight,Medium,Slight,Most,More,Medium,Medium,Medium,Medium,Medium,Medium,Most,More,Slight,Most,Slight,Most,No,No,Medium,Medium,Medium,No,
+34,11/27/23 17:14:41,11/27/23 17:27:36,Write code and review code,Most,Medium,Medium,No,Most,Slight,Most,Slight,More,No,Most,Medium,Most,Medium,Most,Slight,Medium,More,Slight,Medium,Slight,Medium,Medium,No,"We can auto link the ticket issue code with some settings and if we follow branch and ticket name as a same convention. Also checkout https://github.com/sbimochan/smart-commit to keep track of every commits. If using github, you can make use of autolink references. 
+We also need to remember that if there are very long contents in descriptions, it is failed to be read. The PR should be short and descriptions too. I've seen many PR templates failed.
+Feel free to checkout some github actions tool as well that links the issue in PR descriptions or comments, etc https://github.com/sbimochan/jira-link-commenter"
+35,11/28/23 23:45:14,11/28/23 23:49:12,Write code and review code,Most,More,Most,No,Medium,More,More,Slight,Medium,Slight,More,More,More,More,More,More,Medium,Slight,Medium,Slight,Medium,Medium,Medium,Slight,
+36,11/29/23 15:04:19,11/29/23 15:09:39,Write code and review code,Most,No,Most,No,Medium,Medium,Most,Medium,More,Medium,Most,More,Most,More,More,More,Most,Slight,Most,No,Most,Slight,Most,No,"For bug reproduce steps, I would suggest adding into the issue that is linked with this PR.
+
+Some PR may need a release note and some may not.
+
+priority is important for reviewers as reviewers/maintainers's time is quite expensive. 
+
+For contributing process, `action required` for upgrade and `behavior change` are quite important than other thing. Especially on API-Change, in some design principles, we should upgrade the version from 1.0 to 2.0 if we changes the spec. "
+37,11/30/23 1:39:10,11/30/23 1:54:34,Write code and review code,Most,Slight,Most,Slight,Most,Medium,More,Medium,More,Medium,More,Medium,Medium,More,Slight,More,Slight,More,Slight,Medium,Slight,No,Medium,No,"Notes for reviewers can sometimes be important.
+
+Commit structure can be very important and very difficult (if not considered)"
+38,11/30/23 20:01:35,11/30/23 20:03:28,Write code and review code,Most,Slight,Most,No,Most,Slight,Most,Medium,More,Medium,Most,Slight,Most,Slight,Most,Medium,Most,Slight,Most,No,Most,Slight,Most,No,
+39,2012/1/23 8:56,2012/1/23 8:59,Write code and review code,Medium,Slight,Most,No,Medium,Slight,No,More,No,Slight,Medium,No,Medium,No,Slight,Slight,Slight,Slight,Slight,No,Slight,Slight,Medium,Medium,
+40,2012/5/23 11:29,2012/5/23 11:34,Write code and review code,Most,Medium,Most,Medium,Most,Medium,Most,More,Medium,Medium,Medium,Medium,Slight,Slight,More,More,Most,Most,Medium,Medium,More,More,Medium,Medium,描述要简明扼要，不要赘述，关键点可以直接在代码中注释，或者贴上代码片段，这样更有利于代码检视人员理解

@@ -1,0 +1,578 @@
+﻿identifier,close_time,author_association,comment_association,category,information_element,modification_type,merged,modified,repo,Reason_for_not_following
+nodejs/node#47078,875003,MEMBER,CONTRIBUTOR,Implementation,Add release notes,Add,1,0,nodejs/node,Suggestion is posted after PR closure
+tensorflow/tensorflow#54453,5701941,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,1,1,tensorflow/tensorflow,
+nodejs/node#33922,36799,NONE,MEMBER,Implementation,Add function summary,Add,0,0,nodejs/node,No explanation given
+nodejs/node#33922,36799,NONE,MEMBER,Motivation,Add motivation,Add,0,0,nodejs/node,No explanation given
+tensorflow/tensorflow#28949,154432,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,0,0,tensorflow/tensorflow,No explanation given
+axios/axios#1915,5071002,NONE,NONE,Miscellaneous,Delete template content,Delete,0,0,axios/axios,No explanation given
+facebook/react#18029,529544,COLLABORATOR,COLLABORATOR,Implementation,Add technical details,Add,1,0,facebook/react,No explanation given
+flutter/flutter#38568,778655,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update effect,Update,1,1,flutter/flutter,
+flutter/flutter#119904,5151372,NONE,MEMBER,Problem,Add related issue,Add,0,0,flutter/flutter,No explanation given
+flutter/flutter#11988,1056928,MEMBER,MEMBER,Implementation,Update function summary,Update,1,1,flutter/flutter,
+electron/electron#13245,333803,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,1,1,electron/electron,
+nodejs/node#33317,29030211,MEMBER,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,nodejs/node,Problem is resolved in subsequent comments
+tensorflow/tensorflow#54788,1228775,CONTRIBUTOR,CONTRIBUTOR,Implementation,Delete technical details,Delete,1,1,tensorflow/tensorflow,
+facebook/react#19997,63922994,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,0,1,facebook/react,
+facebook/react#19997,63922994,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,0,1,facebook/react,
+flutter/flutter#32970,108398,NONE,CONTRIBUTOR,Implementation,Add function summary,Add,0,0,flutter/flutter,No explanation given
+microsoft/vscode#122969,6527763,NONE,CONTRIBUTOR,Problem,Add problem statement,Add,1,1,microsoft/vscode,
+flutter/flutter#18189,63449,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,0,flutter/flutter,No explanation given
+tensorflow/tensorflow#26358,552340,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,1,0,tensorflow/tensorflow,Problem is resolved in subsequent comments
+flutter/flutter#117540,1054708,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,flutter/flutter,No explanation given
+nodejs/node#45693,531077,CONTRIBUTOR,MEMBER,Implementation,Add trade-off,Add,1,1,nodejs/node,
+tensorflow/tensorflow#54373,20689355,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,0,0,tensorflow/tensorflow,No explanation given
+facebook/react-native#32164,1257967,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,facebook/react-native,No explanation given
+nodejs/node#7130,37097,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,nodejs/node,Problem is resolved in subsequent comments
+flutter/flutter#51435,162812,CONTRIBUTOR,MEMBER,Implementation,Add trade-off,Add,1,1,flutter/flutter,
+golang/go#29460,93471526,NONE,NONE,Miscellaneous,Format change,Update,0,1,golang/go,
+electron/electron#27006,67983,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,1,1,electron/electron,
+tensorflow/tensorflow#40367,1114948,MEMBER,CONTRIBUTOR,Problem,Add problem statement,Add,1,1,tensorflow/tensorflow,
+tensorflow/tensorflow#31601,13552006,CONTRIBUTOR,COLLABORATOR,Motivation,Add motivation,Add,1,0,tensorflow/tensorflow,Problem is resolved in subsequent comments
+tensorflow/tensorflow#53659,12022790,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,0,0,tensorflow/tensorflow,No explanation given
+axios/axios#3581,31186985,CONTRIBUTOR,CONTRIBUTOR,Problem,Add related issue,Add,1,1,axios/axios,
+facebook/react#2368,63473,COLLABORATOR,MEMBER,Quality,Add test,Add,1,0,facebook/react,Difficult to Modify
+flutter/flutter#122636,83,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,1,0,flutter/flutter,Problem is resolved in subsequent comments
+tensorflow/tensorflow#33114,1839750,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,1,tensorflow/tensorflow,
+facebook/react-native#22670,3502908,COLLABORATOR,CONTRIBUTOR,Implementation,Update function summary,Update,0,0,facebook/react-native,No explanation given
+twbs/bootstrap#3669,121850,NONE,MEMBER,Problem,Add problem statement,Add,0,0,twbs/bootstrap,No explanation given
+twbs/bootstrap#24594,6106,NONE,MEMBER,Implementation,Add function summary,Add,0,0,twbs/bootstrap,No explanation given
+facebook/react#22999,104116,NONE,COLLABORATOR,Implementation,Add function summary,Add,0,0,facebook/react,No explanation given
+facebook/react#22999,104116,NONE,COLLABORATOR,Motivation,Add motivation,Add,0,0,facebook/react,No explanation given
+flutter/flutter#8914,64689,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,1,1,flutter/flutter,
+ytdl-org/youtube-dl#30366,136481,NONE,CONTRIBUTOR,Problem,Add related issue,Add,1,1,ytdl-org/youtube-dl,
+tensorflow/tensorflow#30949,1146321,NONE,CONTRIBUTOR,Quality,Add test,Add,0,0,tensorflow/tensorflow,Problem is resolved in subsequent comments
+tensorflow/tensorflow#30949,1146321,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,tensorflow/tensorflow,Problem is resolved in subsequent comments
+tensorflow/tensorflow#41981,2709922,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,1,tensorflow/tensorflow,
+golang/go#24927,3369,CONTRIBUTOR,NONE,Miscellaneous,Delete template content,Delete,0,1,golang/go,
+electron/electron#29380,3621071,CONTRIBUTOR,NONE,Implementation,Update function summary,Update,1,0,electron/electron,Suggestion is posted after PR closure
+golang/go#36920,2279287,CONTRIBUTOR,NONE,Problem,Add problem statement,Add,0,0,golang/go,Problem is resolved in subsequent comments
+tensorflow/tensorflow#50408,10447149,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,1,tensorflow/tensorflow,
+nodejs/node#46108,173229,CONTRIBUTOR,MEMBER,Problem,Add problem statement,Add,1,0,nodejs/node,Difficult to Modify
+nodejs/node#15648,170715,MEMBER,MEMBER,Motivation,Update motivation,Update,0,1,nodejs/node,
+nodejs/node#29526,873109,MEMBER,MEMBER,Motivation,Add motivation,Add,0,1,nodejs/node,
+tensorflow/tensorflow#56465,1860041,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,1,tensorflow/tensorflow,
+tensorflow/tensorflow#56465,1860041,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,1,tensorflow/tensorflow,
+flutter/flutter#20887,66241,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add effect,Add,1,1,flutter/flutter,
+ytdl-org/youtube-dl#25734,21834588,NONE,NONE,Quality,Update limitation,Update,0,1,ytdl-org/youtube-dl,
+nodejs/node#45512,1214364,MEMBER,MEMBER,Motivation,Add motivation,Add,0,0,nodejs/node,Problem is resolved in subsequent comments
+tensorflow/tensorflow#56780,7691741,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,0,1,tensorflow/tensorflow,
+facebook/react-native#12682,9963279,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,1,facebook/react-native,
+facebook/react-native#12682,9963279,NONE,CONTRIBUTOR,Quality,Add test,Add,0,1,facebook/react-native,
+vercel/next.js#28997,96,NONE,MEMBER,Quality,Update checklist,Update,0,1,vercel/next.js,
+microsoft/vscode#114669,76592,COLLABORATOR,MEMBER,Problem,Add related issue,Add,1,1,microsoft/vscode,
+ytdl-org/youtube-dl#31243,1842948,CONTRIBUTOR,NONE,Problem,Update related issue,Update,1,1,ytdl-org/youtube-dl,
+tensorflow/tensorflow#18433,2923457,CONTRIBUTOR,MEMBER,Implementation,Update function summary,Update,1,1,tensorflow/tensorflow,
+nodejs/node#46085,289644,CONTRIBUTOR,MEMBER,Implementation,Update function summary,Update,1,1,nodejs/node,
+facebook/react-native#19768,20205687,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add effect,Add,0,0,facebook/react-native,Problem is resolved in subsequent comments
+flutter/flutter#24265,6119325,CONTRIBUTOR,CONTRIBUTOR,Problem,Update related issue,Update,0,1,flutter/flutter,
+tensorflow/tensorflow#27175,825779,CONTRIBUTOR,COLLABORATOR,Implementation,Add function summary,Add,0,0,tensorflow/tensorflow,No explanation given
+flutter/flutter#31812,150923,NONE,MEMBER,Problem,Update problem statement,Update,1,1,flutter/flutter,
+flutter/flutter#63610,1106645,MEMBER,MEMBER,Implementation,Add effect,Add,1,1,flutter/flutter,
+tensorflow/tensorflow#52295,1755482,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,1,1,tensorflow/tensorflow,
+tensorflow/tensorflow#52295,1755482,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,1,1,tensorflow/tensorflow,
+facebook/react-native#16464,21650,CONTRIBUTOR,CONTRIBUTOR,Miscellaneous,Format change,Update,0,1,facebook/react-native,
+tensorflow/tensorflow#39700,733442,NONE,COLLABORATOR,Implementation,Add function summary,Add,0,0,tensorflow/tensorflow,No explanation given
+facebook/react-native#17583,23513357,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,0,0,facebook/react-native,Suggestion is posted after PR closure
+nodejs/node#44710,17869856,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,1,1,nodejs/node,
+flutter/flutter#103975,10920,NONE,CONTRIBUTOR,Motivation,Update motivation,Update,0,0,flutter/flutter,No explanation given
+flutter/flutter#36757,474897,NONE,CONTRIBUTOR,Problem,Add related issue,Add,0,0,flutter/flutter,Problem is resolved in subsequent comments
+flutter/flutter#50259,90971,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,0,0,flutter/flutter,No explanation given
+tensorflow/tensorflow#37514,164996,CONTRIBUTOR,MEMBER,Problem,Add problem statement,Add,1,1,tensorflow/tensorflow,
+electron/electron#24054,70988,MEMBER,MEMBER,Motivation,Add motivation,Add,1,0,electron/electron,Problem is resolved in subsequent comments
+nodejs/node#17159,760770,MEMBER,NONE,Motivation,Add motivation,Add,0,0,nodejs/node,Suggestion is posted after PR closure
+vercel/next.js#19445,70611,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,0,0,vercel/next.js,No explanation given
+tensorflow/tensorflow#57537,163715,CONTRIBUTOR,CONTRIBUTOR,Implementation,Delete technical details,Delete,1,1,tensorflow/tensorflow,
+electron/electron#14651,2758310,NONE,MEMBER,Implementation,Add function summary,Add,0,1,electron/electron,
+microsoft/vscode#161000,3098652,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,microsoft/vscode,No explanation given
+electron/electron#37341,21106,NONE,NONE,Implementation,Add release notes,Add,0,0,electron/electron,No explanation given
+nodejs/node#20745,10210256,MEMBER,MEMBER,Implementation,Update function summary,Update,0,1,nodejs/node,
+nodejs/node#3933,40312777,NONE,MEMBER,Problem,Add problem statement,Add,0,0,nodejs/node,Problem is resolved in subsequent comments
+golang/go#39494,47839398,NONE,NONE,Problem,Add related issue,Add,0,0,golang/go,No explanation given
+flutter/flutter#44778,176939,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,1,1,flutter/flutter,
+tensorflow/tensorflow#27678,155520,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,1,0,tensorflow/tensorflow,Problem is resolved in subsequent comments
+facebook/react#22995,111185,NONE,COLLABORATOR,Implementation,Add function summary,Add,0,0,facebook/react,No explanation given
+facebook/react#22995,111185,NONE,COLLABORATOR,Motivation,Add motivation,Add,0,0,facebook/react,No explanation given
+axios/axios#2541,7339572,COLLABORATOR,COLLABORATOR,Implementation,Add function summary,Add,0,1,axios/axios,
+flutter/flutter#34870,292829,CONTRIBUTOR,CONTRIBUTOR,Quality,Add test,Add,1,1,flutter/flutter,
+twbs/bootstrap#17815,7760731,NONE,MEMBER,Implementation,Add function summary,Add,0,0,twbs/bootstrap,Problem is resolved in subsequent comments
+flutter/flutter#85113,18106466,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,1,flutter/flutter,
+flutter/flutter#85113,18106466,NONE,CONTRIBUTOR,Implementation,Add function summary,Add,0,1,flutter/flutter,
+flutter/flutter#85113,18106466,NONE,CONTRIBUTOR,Problem,Add related issue,Add,0,1,flutter/flutter,
+flutter/flutter#85113,18106466,NONE,CONTRIBUTOR,Quality,Add test,Add,0,1,flutter/flutter,
+vercel/next.js#22202,25544637,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,0,1,vercel/next.js,
+nodejs/node#2359,745798,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,0,0,nodejs/node,Suggestion is incorrect
+nodejs/node#9483,8266835,MEMBER,CONTRIBUTOR,Implementation,Update function summary,Update,0,0,nodejs/node,No explanation given
+tensorflow/tensorflow#55196,924988,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,1,1,tensorflow/tensorflow,
+electron/electron#19698,1586259,CONTRIBUTOR,CONTRIBUTOR,Miscellaneous,Add template content,Add,1,1,electron/electron,
+axios/axios#4147,496040,COLLABORATOR,CONTRIBUTOR,Problem,Add related issue,Add,1,1,axios/axios,
+electron/electron#13944,1375741,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,1,1,electron/electron,
+flutter/flutter#120739,633,MEMBER,MEMBER,Motivation,Add motivation,Add,1,1,flutter/flutter,
+nodejs/node#47125,2072419,MEMBER,CONTRIBUTOR,Implementation,Add release notes,Add,1,0,nodejs/node,Suggestion is posted after PR closure
+tensorflow/tensorflow#55491,2678050,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,0,tensorflow/tensorflow,No explanation given
+flutter/flutter#60558,4829018,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,1,1,flutter/flutter,
+flutter/flutter#60558,4829018,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,1,1,flutter/flutter,
+facebook/react#15022,11498883,COLLABORATOR,NONE,Implementation,Update effect,Update,1,1,facebook/react,
+tensorflow/tensorflow#50756,4270189,CONTRIBUTOR,MEMBER,Implementation,Update function summary,Update,1,1,tensorflow/tensorflow,
+electron/electron#13284,57658,MEMBER,CONTRIBUTOR,Implementation,Add function summary,Add,1,1,electron/electron,
+tensorflow/tensorflow#51470,15666875,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,1,1,tensorflow/tensorflow,
+nodejs/node#38123,488838,CONTRIBUTOR,MEMBER,Problem,Update related issue,Update,0,0,nodejs/node,No explanation given
+vercel/next.js#40853,1043093,NONE,CONTRIBUTOR,Problem,Add related issue,Add,0,1,vercel/next.js,
+flutter/flutter#47389,7635,CONTRIBUTOR,MEMBER,Problem,Add problem statement,Add,1,0,flutter/flutter,Problem is resolved in subsequent comments
+flutter/flutter#13299,2354,MEMBER,CONTRIBUTOR,Implementation,Update technical details,Update,1,1,flutter/flutter,
+facebook/react-native#19489,15782040,CONTRIBUTOR,CONTRIBUTOR,Problem,Add problem statement,Add,0,1,facebook/react-native,
+flutter/flutter#51223,837916,NONE,MEMBER,Implementation,Add function summary,Add,0,0,flutter/flutter,No explanation given
+flutter/flutter#51223,837916,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,flutter/flutter,Problem is resolved in subsequent comments
+flutter/flutter#29901,90240,NONE,MEMBER,Quality,Update checklist,Update,0,0,flutter/flutter,No explanation given
+flutter/flutter#18369,1895217,MEMBER,MEMBER,Implementation,Update function summary,Update,1,1,flutter/flutter,
+microsoft/vscode#5489,5472292,MEMBER,CONTRIBUTOR,Implementation,Update function summary,Update,1,0,microsoft/vscode,Problem is resolved in subsequent comments
+facebook/react-native#15688,2015451,NONE,CONTRIBUTOR,Problem,Add problem statement,Add,0,1,facebook/react-native,
+microsoft/vscode#77274,1479309,MEMBER,NONE,Implementation,Add function summary,Add,0,0,microsoft/vscode,No explanation given
+golang/go#31994,81846857,NONE,NONE,Problem,Add related issue,Add,0,0,golang/go,No explanation given
+flutter/flutter#29090,34813,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,0,0,flutter/flutter,Suggestion is posted after PR closure
+flutter/flutter#29090,34813,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,0,0,flutter/flutter,Suggestion is posted after PR closure
+flutter/flutter#29090,34813,CONTRIBUTOR,MEMBER,Quality,Add test,Add,0,0,flutter/flutter,Suggestion is posted after PR closure
+nodejs/node#4507,3631527,CONTRIBUTOR,NONE,Motivation,Add motivation,Add,1,0,nodejs/node,No explanation given
+tensorflow/tensorflow#52012,2281978,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,1,tensorflow/tensorflow,
+flutter/flutter#65150,581609,CONTRIBUTOR,MEMBER,Motivation,Update motivation,Update,1,1,flutter/flutter,
+facebook/react-native#32435,522412,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update category of pull request,Update,0,1,facebook/react-native,
+golang/go#31953,78337,NONE,NONE,Problem,Add related issue,Add,0,1,golang/go,
+vercel/next.js#44023,94744,CONTRIBUTOR,MEMBER,Implementation,Add effect,Add,0,1,vercel/next.js,
+tensorflow/tensorflow#47258,314267,MEMBER,CONTRIBUTOR,Implementation,Add effect,Add,1,1,tensorflow/tensorflow,
+flutter/flutter#66512,1578058,NONE,CONTRIBUTOR,Problem,Add related issue,Add,0,0,flutter/flutter,No explanation given
+flutter/flutter#66512,1578058,NONE,CONTRIBUTOR,Quality,Add test,Add,0,0,flutter/flutter,No explanation given
+facebook/react-native#28566,96159181,NONE,CONTRIBUTOR,Quality,Add test,Add,0,0,facebook/react-native,Difficult to Modify
+flutter/flutter#44980,22316109,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,1,1,flutter/flutter,
+flutter/flutter#44980,22316109,CONTRIBUTOR,CONTRIBUTOR,Quality,Update checklist,Update,1,1,flutter/flutter,
+tensorflow/tensorflow#20430,13397,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,0,tensorflow/tensorflow,Suggestion is incorrect
+tensorflow/tensorflow#24293,11573031,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,0,tensorflow/tensorflow,No explanation given
+electron/electron#11573,8102691,CONTRIBUTOR,MEMBER,Problem,Add problem statement,Add,0,0,electron/electron,Problem is resolved in subsequent comments
+tensorflow/tensorflow#29440,3739925,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,1,1,tensorflow/tensorflow,
+flutter/flutter#82754,8616,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,1,1,flutter/flutter,
+tensorflow/tensorflow#53259,24367358,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,tensorflow/tensorflow,No explanation given
+facebook/react-native#10772,22110425,NONE,CONTRIBUTOR,Implementation,Update function summary,Update,0,0,facebook/react-native,Problem is resolved in subsequent comments
+nodejs/node#12797,1989,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,nodejs/node,No explanation given
+electron/electron#26278,225112,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,0,0,electron/electron,No explanation given
+tensorflow/tensorflow#51235,3757086,CONTRIBUTOR,CONTRIBUTOR,Motivation,Update motivation,Update,1,1,tensorflow/tensorflow,
+facebook/react-native#7625,15542900,NONE,CONTRIBUTOR,Implementation,Add function summary,Add,0,0,facebook/react-native,Suggestion is posted after PR closure
+facebook/react-native#7625,15542900,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,facebook/react-native,Suggestion is posted after PR closure
+tensorflow/tensorflow#36969,8802548,CONTRIBUTOR,MEMBER,Implementation,Add effect,Add,0,0,tensorflow/tensorflow,No explanation given
+facebook/react#21641,2065645,COLLABORATOR,CONTRIBUTOR,Problem,Update related issue,Update,1,1,facebook/react,
+flutter/flutter#64199,81014,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,1,1,flutter/flutter,
+ytdl-org/youtube-dl#31953,694650,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,ytdl-org/youtube-dl,No explanation given
+flutter/flutter#28688,616562,CONTRIBUTOR,MEMBER,Problem,Update related issue,Update,1,1,flutter/flutter,
+twbs/bootstrap#37311,1515884,CONTRIBUTOR,MEMBER,Problem,Add problem statement,Add,0,1,twbs/bootstrap,
+golang/go#34030,687422,CONTRIBUTOR,NONE,Implementation,Update function summary,Update,0,1,golang/go,
+nodejs/node#30022,187876,MEMBER,MEMBER,Problem,Add related issue,Add,0,0,nodejs/node,Problem is resolved in subsequent comments
+flutter/flutter#37652,858822,CONTRIBUTOR,MEMBER,Implementation,Add trade-off,Add,1,1,flutter/flutter,
+flutter/flutter#121999,262303,NONE,MEMBER,Implementation,Update function summary,Update,0,1,flutter/flutter,
+electron/electron#19427,1155637,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,1,1,electron/electron,
+electron/electron#19427,1155637,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,1,1,electron/electron,
+electron/electron#37514,9358,MEMBER,MEMBER,Implementation,Add release notes,Add,1,0,electron/electron,Suggestion is incorrect
+flutter/flutter#30983,1630232,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,1,1,flutter/flutter,
+tensorflow/tensorflow#37936,4962103,CONTRIBUTOR,NONE,Motivation,Add motivation,Add,1,0,tensorflow/tensorflow,Problem is resolved in subsequent comments
+microsoft/vscode#66618,2471305,CONTRIBUTOR,NONE,Implementation,Add function summary,Add,1,1,microsoft/vscode,
+nodejs/node#33189,2596622,MEMBER,MEMBER,Problem,Add related issue,Add,0,1,nodejs/node,
+nodejs/node#16270,171699,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,0,1,nodejs/node,
+nodejs/node#10859,467833,CONTRIBUTOR,CONTRIBUTOR,Quality,Update checklist,Update,0,1,nodejs/node,
+facebook/react-native#13957,9521577,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,0,0,facebook/react-native,No explanation given
+tensorflow/tensorflow#56869,11218427,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,1,1,tensorflow/tensorflow,
+tensorflow/tensorflow#56869,11218427,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,1,1,tensorflow/tensorflow,
+tensorflow/tensorflow#34052,41892,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,1,1,tensorflow/tensorflow,
+tensorflow/tensorflow#34052,41892,CONTRIBUTOR,CONTRIBUTOR,Quality,Add test,Add,1,1,tensorflow/tensorflow,
+tensorflow/tensorflow#34248,4308493,NONE,COLLABORATOR,Quality,Add test,Add,0,0,tensorflow/tensorflow,No explanation given
+flutter/flutter#32437,934459,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,1,1,flutter/flutter,
+flutter/flutter#115186,4562510,NONE,CONTRIBUTOR,Problem,Add related issue,Add,0,0,flutter/flutter,No explanation given
+flutter/flutter#93408,13163766,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,1,1,flutter/flutter,
+flutter/flutter#93408,13163766,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,1,1,flutter/flutter,
+twbs/bootstrap#36532,5905,NONE,MEMBER,Implementation,Add function summary,Add,0,0,twbs/bootstrap,No explanation given
+axios/axios#3831,16957260,NONE,CONTRIBUTOR,Implementation,Add function summary,Add,0,1,axios/axios,
+flutter/flutter#59103,4704382,NONE,CONTRIBUTOR,Problem,Add problem statement,Add,0,0,flutter/flutter,No explanation given
+facebook/react-native#13809,4070,NONE,MEMBER,Motivation,Add motivation,Add,0,0,facebook/react-native,No explanation given
+vercel/next.js#3724,1320,NONE,MEMBER,Problem,Add problem statement,Add,0,0,vercel/next.js,No explanation given
+flutter/flutter#57670,120596,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,1,flutter/flutter,
+tensorflow/tensorflow#30101,1457245,NONE,MEMBER,Implementation,Update function summary,Update,1,1,tensorflow/tensorflow,
+tensorflow/tensorflow#30987,137224,CONTRIBUTOR,CONTRIBUTOR,Motivation,Update motivation,Update,1,0,tensorflow/tensorflow,Problem is resolved in subsequent comments
+flutter/flutter#57988,49772,NONE,MEMBER,Quality,Add test,Add,0,0,flutter/flutter,No explanation given
+facebook/react-native#9788,8596069,CONTRIBUTOR,CONTRIBUTOR,Quality,Add test,Add,0,1,facebook/react-native,
+flutter/flutter#121588,740758,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,0,1,flutter/flutter,
+nodejs/node#14334,296456,NONE,MEMBER,Miscellaneous,Format change,Update,0,0,nodejs/node,No explanation given
+nodejs/node#11630,2298706,CONTRIBUTOR,CONTRIBUTOR,Problem,Add problem statement,Add,0,1,nodejs/node,
+nodejs/node#31257,234701,MEMBER,CONTRIBUTOR,Implementation,Update function summary,Update,0,1,nodejs/node,
+facebook/react-native#20025,23023965,CONTRIBUTOR,COLLABORATOR,Problem,Add problem statement,Add,0,0,facebook/react-native,No explanation given
+facebook/react-native#20025,23023965,CONTRIBUTOR,COLLABORATOR,Quality,Add test,Add,0,0,facebook/react-native,No explanation given
+flutter/flutter#51335,1229110,CONTRIBUTOR,MEMBER,Problem,Update problem statement,Update,1,1,flutter/flutter,
+nodejs/node#46083,550441,MEMBER,MEMBER,Motivation,Add motivation,Add,1,0,nodejs/node,Problem is resolved in subsequent comments
+tensorflow/tensorflow#56334,13046122,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add effect,Add,0,1,tensorflow/tensorflow,
+electron/electron#16625,7211,CONTRIBUTOR,MEMBER,Implementation,Add trade-off,Add,1,1,electron/electron,
+tensorflow/tensorflow#55379,827129,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,1,1,tensorflow/tensorflow,
+tensorflow/tensorflow#55379,827129,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,1,1,tensorflow/tensorflow,
+nodejs/node#16802,9613,CONTRIBUTOR,MEMBER,Quality,Update checklist,Update,0,1,nodejs/node,
+nodejs/node#7062,617699,CONTRIBUTOR,MEMBER,Miscellaneous,Format change,Update,0,1,nodejs/node,
+nodejs/node#18170,1239636,MEMBER,MEMBER,Motivation,Add motivation,Add,0,1,nodejs/node,
+tensorflow/tensorflow#34480,273421,NONE,COLLABORATOR,Problem,Add related issue,Add,0,0,tensorflow/tensorflow,No explanation given
+tensorflow/tensorflow#33638,546248,CONTRIBUTOR,CONTRIBUTOR,Problem,Add problem statement,Add,1,0,tensorflow/tensorflow,Problem is resolved in subsequent comments
+flutter/flutter#60640,1164923,CONTRIBUTOR,CONTRIBUTOR,Problem,Add related issue,Add,1,1,flutter/flutter,
+flutter/flutter#35066,189814,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,1,1,flutter/flutter,
+flutter/flutter#43466,939662,CONTRIBUTOR,MEMBER,Implementation,Add trade-off,Add,1,1,flutter/flutter,
+facebook/react#13596,904684,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,1,1,facebook/react,
+tensorflow/tensorflow#55655,1210805,CONTRIBUTOR,CONTRIBUTOR,Implementation,Delete effect,Delete,1,1,tensorflow/tensorflow,
+flutter/flutter#119035,2352,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,1,1,flutter/flutter,
+flutter/flutter#34252,4758717,MEMBER,MEMBER,Implementation,Update function summary,Update,1,1,flutter/flutter,
+twbs/bootstrap#25181,61583,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,0,0,twbs/bootstrap,No explanation given
+tensorflow/tensorflow#36285,1154090,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,0,tensorflow/tensorflow,Problem is resolved in subsequent comments
+facebook/react-native#35608,6478321,NONE,CONTRIBUTOR,Problem,Add problem statement,Add,0,0,facebook/react-native,No explanation given
+facebook/react-native#35608,6478321,NONE,CONTRIBUTOR,Implementation,Add technical details,Add,0,0,facebook/react-native,No explanation given
+facebook/react-native#35608,6478321,NONE,CONTRIBUTOR,Quality,Add test,Add,0,0,facebook/react-native,No explanation given
+flutter/flutter#103092,1716659,CONTRIBUTOR,MEMBER,Miscellaneous,Delete template content,Delete,1,1,flutter/flutter,
+facebook/react-native#21820,12697637,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,0,1,facebook/react-native,
+electron/electron#13808,2592614,NONE,MEMBER,Implementation,Add function summary,Add,1,1,electron/electron,
+flutter/flutter#91990,79068,MEMBER,MEMBER,Implementation,Add function summary,Add,0,0,flutter/flutter,No explanation given
+flutter/flutter#81140,7499687,NONE,MEMBER,Motivation,Add motivation,Add,0,0,flutter/flutter,No explanation given
+tensorflow/tensorflow#21132,1374531,NONE,CONTRIBUTOR,Implementation,Update function summary,Update,0,0,tensorflow/tensorflow,No explanation given
+facebook/react-native#12489,7205266,NONE,CONTRIBUTOR,Quality,Add test,Add,0,0,facebook/react-native,Problem is resolved in subsequent comments
+facebook/react-native#12489,7205266,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,facebook/react-native,Problem is resolved in subsequent comments
+electron/electron#16276,687351,MEMBER,MEMBER,Motivation,Update motivation,Update,1,1,electron/electron,
+flutter/flutter#20840,1296793,MEMBER,CONTRIBUTOR,Implementation,Add effect,Add,1,0,flutter/flutter,No explanation given
+facebook/react-native#7220,5064,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add effect,Add,0,1,facebook/react-native,
+flutter/flutter#120855,1970535,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,0,0,flutter/flutter,No explanation given
+nodejs/node#22315,10825355,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,0,1,nodejs/node,
+flutter/flutter#27953,532712,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,1,1,flutter/flutter,
+golang/go#37386,16639,CONTRIBUTOR,NONE,Quality,Update test,Update,0,1,golang/go,
+tensorflow/tensorflow#24327,2949455,NONE,CONTRIBUTOR,Motivation,Update motivation,Update,1,1,tensorflow/tensorflow,
+flutter/flutter#818,3477,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,1,0,flutter/flutter,Problem is resolved in subsequent comments
+facebook/react-native#11647,17760158,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,facebook/react-native,No explanation given
+electron/electron#13505,4599237,CONTRIBUTOR,MEMBER,Implementation,Update function summary,Update,1,1,electron/electron,
+flutter/flutter#38643,945557,MEMBER,MEMBER,Implementation,Add function summary,Add,1,1,flutter/flutter,
+flutter/flutter#38643,945557,MEMBER,MEMBER,Motivation,Add motivation,Add,1,1,flutter/flutter,
+tensorflow/tensorflow#54505,1353338,CONTRIBUTOR,CONTRIBUTOR,Miscellaneous,Delete Assignee,Delete,1,1,tensorflow/tensorflow,
+twbs/bootstrap#37356,37261,CONTRIBUTOR,MEMBER,Problem,Add problem statement,Add,1,0,twbs/bootstrap,Problem is resolved in subsequent comments
+tensorflow/tensorflow#41296,524620,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,1,1,tensorflow/tensorflow,
+nodejs/node#45491,1218664,CONTRIBUTOR,MEMBER,Implementation,Update function summary,Update,0,0,nodejs/node,No explanation given
+facebook/react#16104,25580123,CONTRIBUTOR,MEMBER,Implementation,Update function summary,Update,1,1,facebook/react,
+golang/go#38191,4754,CONTRIBUTOR,NONE,Implementation,Update function summary,Update,0,1,golang/go,
+flutter/flutter#27778,193562,CONTRIBUTOR,MEMBER,Motivation,Update motivation,Update,0,0,flutter/flutter,No explanation given
+flutter/flutter#123216,2265715,NONE,CONTRIBUTOR,Problem,Add problem statement,Add,0,0,flutter/flutter,No explanation given
+flutter/flutter#123216,2265715,NONE,CONTRIBUTOR,Implementation,Add function summary,Add,0,0,flutter/flutter,No explanation given
+facebook/react-native#7344,6813288,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,0,1,facebook/react-native,
+flutter/flutter#34188,8659210,MEMBER,CONTRIBUTOR,Implementation,Add trade-off,Add,1,1,flutter/flutter,
+flutter/flutter#61609,3633951,CONTRIBUTOR,CONTRIBUTOR,Problem,Add problem statement,Add,0,0,flutter/flutter,Problem is resolved in subsequent comments
+nodejs/node#31950,4155214,MEMBER,MEMBER,Implementation,Update function summary,Update,0,1,nodejs/node,
+axios/axios#5420,624840,COLLABORATOR,CONTRIBUTOR,Problem,Update related issue,Update,1,0,axios/axios,No explanation given
+tensorflow/tensorflow#32636,3163418,NONE,MEMBER,Implementation,Add function summary,Add,0,0,tensorflow/tensorflow,No explanation given
+tensorflow/tensorflow#42023,6682593,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,0,1,tensorflow/tensorflow,
+nodejs/node#17560,4568092,MEMBER,MEMBER,Implementation,Add function summary,Add,0,0,nodejs/node,No explanation given
+flutter/flutter#26847,2031901,NONE,MEMBER,Implementation,Add function summary,Add,0,1,flutter/flutter,
+facebook/react-native#14906,866809,NONE,CONTRIBUTOR,Implementation,Add function summary,Add,0,1,facebook/react-native,
+twbs/bootstrap#6342,20966135,MEMBER,COLLABORATOR,Implementation,Update function summary,Update,1,0,twbs/bootstrap,No explanation given
+electron/electron#15755,126,MEMBER,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,electron/electron,Problem is resolved in subsequent comments
+tensorflow/tensorflow#56072,3192729,CONTRIBUTOR,CONTRIBUTOR,Problem,Update problem statement,Update,1,1,tensorflow/tensorflow,
+microsoft/vscode#75052,47201696,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,0,1,microsoft/vscode,
+flutter/flutter#26208,61518,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,0,1,flutter/flutter,
+facebook/react-native#20293,992554,CONTRIBUTOR,COLLABORATOR,Motivation,Update motivation,Update,0,1,facebook/react-native,
+nodejs/node#15126,19744545,MEMBER,NONE,Motivation,Update motivation,Update,0,0,nodejs/node,No explanation given
+nodejs/node#10713,192812,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,0,1,nodejs/node,
+nodejs/node#11020,364143,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,0,1,nodejs/node,
+electron/electron#26363,2241614,CONTRIBUTOR,CONTRIBUTOR,Problem,Add related issue,Add,0,1,electron/electron,
+tensorflow/tensorflow#53421,2443534,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,1,0,tensorflow/tensorflow,Problem is resolved in subsequent comments
+golang/go#39474,47902224,NONE,NONE,Motivation,Add motivation,Add,0,0,golang/go,No explanation given
+nodejs/node#20075,2388506,MEMBER,MEMBER,Problem,Add related issue,Add,0,1,nodejs/node,
+flutter/flutter#100133,5043897,NONE,MEMBER,Problem,Add problem statement,Add,0,0,flutter/flutter,No explanation given
+tensorflow/tensorflow#52040,394479,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update effect,Update,1,1,tensorflow/tensorflow,
+tensorflow/tensorflow#26936,41247878,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,1,1,tensorflow/tensorflow,
+facebook/react-native#12329,290960,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add trade-off,Add,0,1,facebook/react-native,
+nodejs/node#29522,1999602,MEMBER,MEMBER,Problem,Add related issue,Add,0,1,nodejs/node,
+flutter/flutter#42100,9705222,CONTRIBUTOR,MEMBER,Implementation,Add trade-off,Add,1,1,flutter/flutter,
+tensorflow/tensorflow#31559,94124,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,1,0,tensorflow/tensorflow,No explanation given
+tensorflow/tensorflow#47154,79252,MEMBER,CONTRIBUTOR,Implementation,Add effect,Add,1,1,tensorflow/tensorflow,
+nodejs/node#33155,1397268,MEMBER,MEMBER,Quality,Add test,Add,0,0,nodejs/node,No explanation given
+facebook/react-native#16500,11602492,NONE,CONTRIBUTOR,Problem,Update related issue,Update,0,1,facebook/react-native,
+nodejs/node#12972,262087,CONTRIBUTOR,MEMBER,Implementation,Update function summary,Update,0,1,nodejs/node,
+flutter/flutter#30414,671714,CONTRIBUTOR,MEMBER,Implementation,Add trade-off,Add,1,1,flutter/flutter,
+flutter/flutter#99493,2434542,MEMBER,CONTRIBUTOR,Problem,Add related issue,Add,1,1,flutter/flutter,
+facebook/react#23001,102822,NONE,COLLABORATOR,Implementation,Add function summary,Add,0,0,facebook/react,No explanation given
+facebook/react#23001,102822,NONE,COLLABORATOR,Motivation,Add motivation,Add,0,0,facebook/react,No explanation given
+tensorflow/tensorflow#19423,1205111,CONTRIBUTOR,NONE,Motivation,Add motivation,Add,0,0,tensorflow/tensorflow,Difficult to Modify
+facebook/react-native#33856,12038,NONE,CONTRIBUTOR,Miscellaneous,Language change,Update,0,0,facebook/react-native,No explanation given
+flutter/flutter#54919,3616927,CONTRIBUTOR,MEMBER,Implementation,Update function summary,Update,1,1,flutter/flutter,
+tensorflow/tensorflow#56483,1813002,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,0,1,tensorflow/tensorflow,
+nodejs/node#9659,17829247,CONTRIBUTOR,CONTRIBUTOR,Problem,Add problem statement,Add,0,1,nodejs/node,
+flutter/flutter#40204,9,MEMBER,MEMBER,Motivation,Add motivation,Add,1,1,flutter/flutter,
+tensorflow/tensorflow#55665,714547,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,1,1,tensorflow/tensorflow,
+tensorflow/tensorflow#55665,714547,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,1,1,tensorflow/tensorflow,
+flutter/flutter#19569,7966,CONTRIBUTOR,MEMBER,Implementation,Update function summary,Update,1,1,flutter/flutter,
+flutter/flutter#14610,392540,MEMBER,MEMBER,Implementation,Add function summary,Add,1,1,flutter/flutter,
+flutter/flutter#14610,392540,MEMBER,CONTRIBUTOR,Implementation,Add function summary,Add,1,1,flutter/flutter,
+tensorflow/tensorflow#31238,41037,CONTRIBUTOR,CONTRIBUTOR,Problem,Add related issue,Add,1,1,tensorflow/tensorflow,
+facebook/react-native#24331,5113174,NONE,CONTRIBUTOR,Implementation,Add function summary,Add,0,1,facebook/react-native,
+tensorflow/tensorflow#50962,3984078,CONTRIBUTOR,CONTRIBUTOR,Problem,Update problem statement,Update,1,1,tensorflow/tensorflow,
+nodejs/node#10045,11179,CONTRIBUTOR,MEMBER,Miscellaneous,Add template content,Add,0,0,nodejs/node,No explanation given
+tensorflow/tensorflow#10388,389807,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add effect,Add,0,0,tensorflow/tensorflow,No explanation given
+tensorflow/tensorflow#51469,3539260,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,0,0,tensorflow/tensorflow,No explanation given
+tensorflow/tensorflow#43611,17768049,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,0,1,tensorflow/tensorflow,
+nodejs/node#6413,10773848,MEMBER,CONTRIBUTOR,Problem,Add related issue,Add,0,0,nodejs/node,No explanation given
+flutter/flutter#51382,618505,MEMBER,MEMBER,Problem,Add problem statement,Add,0,1,flutter/flutter,
+twbs/bootstrap#38128,687051,NONE,MEMBER,Problem,Add related issue,Add,0,1,twbs/bootstrap,
+flutter/flutter#37169,13679394,NONE,CONTRIBUTOR,Implementation,Update function summary,Update,0,0,flutter/flutter,No explanation given
+facebook/react-native#24347,63926,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,0,1,facebook/react-native,
+facebook/react-native#24347,63926,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,0,1,facebook/react-native,
+facebook/react#9147,2220024,MEMBER,CONTRIBUTOR,Implementation,Add function summary,Add,0,0,facebook/react,No explanation given
+facebook/react-native#4061,237897,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,1,0,facebook/react-native,No explanation given
+electron/electron#17121,157796,MEMBER,MEMBER,Implementation,Add trade-off,Add,1,1,electron/electron,
+electron/electron#33265,174892,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,1,1,electron/electron,
+facebook/react#23000,103551,NONE,COLLABORATOR,Implementation,Add function summary,Add,0,0,facebook/react,No explanation given
+facebook/react#23000,103551,NONE,COLLABORATOR,Motivation,Add motivation,Add,0,0,facebook/react,No explanation given
+flutter/flutter#74665,7282,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,1,1,flutter/flutter,
+facebook/react-native#23804,518132,NONE,CONTRIBUTOR,Miscellaneous,Format change,Update,0,1,facebook/react-native,
+nodejs/node#38575,2140616,MEMBER,MEMBER,Motivation,Add motivation,Add,0,0,nodejs/node,Problem is resolved in subsequent comments
+nodejs/node#19896,5316228,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,0,0,nodejs/node,No explanation given
+electron/electron#18133,15664510,NONE,MEMBER,Implementation,Add function summary,Add,0,0,electron/electron,No explanation given
+electron/electron#18133,15664510,NONE,MEMBER,Quality,Update checklist,Update,0,0,electron/electron,No explanation given
+electron/electron#18133,15664510,NONE,MEMBER,Implementation,Add release notes,Add,0,0,electron/electron,No explanation given
+electron/electron#33288,504667,MEMBER,MEMBER,Quality,Add limitation,Add,1,1,electron/electron,
+flutter/flutter#19931,225697,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,1,flutter/flutter,
+electron/electron#14377,2785831,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,1,1,electron/electron,
+tensorflow/tensorflow#1338,63223,NONE,NONE,Miscellaneous,Language change,Update,0,0,tensorflow/tensorflow,No explanation given
+electron/electron#34804,49127,NONE,MEMBER,Implementation,Add release notes,Add,0,0,electron/electron,No explanation given
+facebook/react-native#10948,919529,CONTRIBUTOR,CONTRIBUTOR,Quality,Add test,Add,0,1,facebook/react-native,
+golang/go#36076,16917,CONTRIBUTOR,NONE,Problem,Update problem statement,Update,0,1,golang/go,
+tensorflow/tensorflow#23186,2961841,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,0,0,tensorflow/tensorflow,Problem is resolved in subsequent comments
+flutter/flutter#79953,2872,MEMBER,MEMBER,Problem,Update related issue,Update,1,1,flutter/flutter,
+electron/electron#16363,4097861,CONTRIBUTOR,MEMBER,Implementation,Update function summary,Update,1,1,electron/electron,
+electron/electron#16363,4097861,CONTRIBUTOR,MEMBER,Quality,Update checklist,Update,1,1,electron/electron,
+electron/electron#16363,4097861,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,1,1,electron/electron,
+tensorflow/tensorflow#57091,406534,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,1,tensorflow/tensorflow,
+flutter/flutter#46034,3184235,CONTRIBUTOR,CONTRIBUTOR,Quality,Add test,Add,0,1,flutter/flutter,
+flutter/flutter#46034,3184235,CONTRIBUTOR,CONTRIBUTOR,Problem,Add related issue,Add,0,1,flutter/flutter,
+tensorflow/tensorflow#57639,1221425,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update effect,Update,1,1,tensorflow/tensorflow,
+flutter/flutter#44471,1532814,CONTRIBUTOR,CONTRIBUTOR,Quality,Add test,Add,1,0,flutter/flutter,Problem is resolved in subsequent comments
+facebook/react-native#19169,877176,CONTRIBUTOR,COLLABORATOR,Quality,Add test,Add,0,1,facebook/react-native,
+facebook/react-native#19169,877176,CONTRIBUTOR,COLLABORATOR,Implementation,Add release notes,Add,0,1,facebook/react-native,
+flutter/flutter#116536,1309495,CONTRIBUTOR,CONTRIBUTOR,Problem,Add related issue,Add,1,0,flutter/flutter,Suggestion is incorrect
+electron/electron#14906,11650756,CONTRIBUTOR,CONTRIBUTOR,Miscellaneous,Add template content,Add,1,1,electron/electron,
+tensorflow/tensorflow#13343,7493,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,tensorflow/tensorflow,No explanation given
+flutter/flutter#111710,414977,NONE,MEMBER,Implementation,Add function summary,Add,0,0,flutter/flutter,No explanation given
+tensorflow/tensorflow#37304,3625665,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,1,1,tensorflow/tensorflow,
+vercel/next.js#16215,1050207,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Update,1,1,vercel/next.js,
+electron/electron#7365,13912,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,electron/electron,No explanation given
+flutter/flutter#121483,5537065,MEMBER,MEMBER,Implementation,Update function summary,Update,1,1,flutter/flutter,
+tensorflow/tensorflow#53848,5625213,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update effect,Update,1,1,tensorflow/tensorflow,
+nodejs/node#9978,358593,CONTRIBUTOR,MEMBER,Miscellaneous,Add template content,Add,0,1,nodejs/node,
+flutter/flutter#38325,106572,MEMBER,MEMBER,Implementation,Update technical details,Update,1,1,flutter/flutter,
+flutter/flutter#107335,1207221,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,1,1,flutter/flutter,
+microsoft/vscode#79960,4103084,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,1,0,microsoft/vscode,Problem is resolved in subsequent comments
+microsoft/vscode#79960,4103084,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,1,0,microsoft/vscode,Problem is resolved in subsequent comments
+microsoft/vscode#79960,4103084,CONTRIBUTOR,MEMBER,Quality,Add test,Add,1,0,microsoft/vscode,Problem is resolved in subsequent comments
+flutter/flutter#39124,2871799,MEMBER,MEMBER,Problem,Add related issue,Add,1,0,flutter/flutter,Problem is resolved in subsequent comments
+nodejs/node#36178,2006130,MEMBER,CONTRIBUTOR,Problem,Add related issue,Add,0,1,nodejs/node,
+nodejs/node#8896,279612,CONTRIBUTOR,MEMBER,Implementation,Update function summary,Update,0,1,nodejs/node,
+flutter/flutter#44843,53,MEMBER,MEMBER,Motivation,Add motivation,Add,1,1,flutter/flutter,
+nodejs/node#32438,613328,MEMBER,MEMBER,Implementation,Add function summary,Add,0,1,nodejs/node,
+tensorflow/tensorflow#17277,34187,MEMBER,NONE,Implementation,Update function summary,Update,1,0,tensorflow/tensorflow,Suggestion is posted after PR closure
+tensorflow/tensorflow#51475,4210519,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,1,tensorflow/tensorflow,
+tensorflow/tensorflow#51475,4210519,CONTRIBUTOR,CONTRIBUTOR,Quality,Update test,Update,1,1,tensorflow/tensorflow,
+flutter/flutter#26438,3891169,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,1,1,flutter/flutter,
+flutter/flutter#26438,3891169,CONTRIBUTOR,MEMBER,Implementation,Add technical details,Add,1,1,flutter/flutter,
+nodejs/node#41749,235739,MEMBER,MEMBER,Problem,Add related issue,Add,1,0,nodejs/node,No explanation given
+flutter/flutter#34015,523360,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,0,0,flutter/flutter,Problem is resolved in subsequent comments
+facebook/react-native#11117,28478412,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,facebook/react-native,Problem is resolved in subsequent comments
+facebook/react-native#11117,28478412,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add trade-off,Add,0,0,facebook/react-native,Problem is resolved in subsequent comments
+facebook/react-native#11117,28478412,CONTRIBUTOR,CONTRIBUTOR,Quality,Add test,Add,0,0,facebook/react-native,Problem is resolved in subsequent comments
+tensorflow/tensorflow#36324,494206,CONTRIBUTOR,CONTRIBUTOR,Problem,Add problem statement,Add,1,1,tensorflow/tensorflow,
+facebook/react#3523,110699,NONE,MEMBER,Miscellaneous,Language change,Update,0,0,facebook/react,No explanation given
+nodejs/node#23695,3160211,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,0,1,nodejs/node,
+tensorflow/tensorflow#30890,268263,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,1,tensorflow/tensorflow,
+nodejs/node#1660,239053,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,0,0,nodejs/node,Problem is resolved in subsequent comments
+flutter/flutter#41480,10,MEMBER,MEMBER,Motivation,Add motivation,Add,1,1,flutter/flutter,
+nodejs/node#4682,5397161,MEMBER,MEMBER,Implementation,Update function summary,Update,0,0,nodejs/node,Problem is resolved in subsequent comments
+nodejs/node#47233,611529,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,1,0,nodejs/node,Suggestion is posted after PR closure
+flutter/flutter#32952,1055213,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,0,0,flutter/flutter,No explanation given
+facebook/react-native#10112,6871875,NONE,CONTRIBUTOR,Motivation,Update motivation,Update,0,1,facebook/react-native,
+facebook/react-native#33682,1982422,CONTRIBUTOR,COLLABORATOR,Problem,Update problem statement,Update,0,0,facebook/react-native,No explanation given
+nodejs/node#47339,442714,MEMBER,CONTRIBUTOR,Implementation,Add release notes,Add,1,0,nodejs/node,No explanation given
+flutter/flutter#87801,1679924,MEMBER,CONTRIBUTOR,Implementation,Add technical details,Add,1,1,flutter/flutter,
+tensorflow/tensorflow#55332,1809698,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,1,1,tensorflow/tensorflow,
+facebook/react-native#15252,11341914,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,facebook/react-native,No explanation given
+tensorflow/tensorflow#50884,19356451,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,0,1,tensorflow/tensorflow,
+flutter/flutter#27345,5317399,CONTRIBUTOR,CONTRIBUTOR,Quality,Update test,Update,0,1,flutter/flutter,
+facebook/react-native#12369,6259837,NONE,CONTRIBUTOR,Quality,Add test,Add,0,0,facebook/react-native,No explanation given
+facebook/react-native#12369,6259837,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,facebook/react-native,No explanation given
+tensorflow/tensorflow#43545,3617705,CONTRIBUTOR,MEMBER,Implementation,Update technical details,Update,1,1,tensorflow/tensorflow,
+nodejs/node#32131,4324292,MEMBER,MEMBER,Problem,Add related issue,Add,0,1,nodejs/node,
+electron/electron#12954,63549,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,1,1,electron/electron,
+electron/electron#12954,63549,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,1,1,electron/electron,
+microsoft/vscode#53931,527432,CONTRIBUTOR,NONE,Implementation,Update function summary,Update,1,1,microsoft/vscode,
+flutter/flutter#102856,395,MEMBER,MEMBER,Motivation,Add motivation,Add,1,0,flutter/flutter,Problem is resolved in subsequent comments
+kubernetes/kubernetes#77463,146446,NONE,CONTRIBUTOR,Implementation,Add trade-off,Add,0,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#104832,4210087,CONTRIBUTOR,CONTRIBUTOR,Problem,Add problem statement,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#104832,4210087,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update trade-off,Update,1,0,kubernetes/kubernetes,Suggestion is incorrect
+kubernetes/kubernetes#104832,4210087,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#32363,6333,CONTRIBUTOR,MEMBER,Implementation,Add trade-off,Add,1,0,kubernetes/kubernetes,Suggestion is posted after PR closure
+kubernetes/kubernetes#29240,203127,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,1,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#29240,203127,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,1,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#88041,1197753,MEMBER,MEMBER,Implementation,Update release notes,Update,0,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#49457,3556983,MEMBER,MEMBER,Problem,Add related issue,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#96834,1833053,MEMBER,MEMBER,Problem,Update related issue,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#60959,9428,MEMBER,MEMBER,Problem,Add problem statement,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#86139,90208130,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add effect,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#13901,13994501,MEMBER,CONTRIBUTOR,Problem,Update related issue,Update,0,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#53449,471816,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,1,0,kubernetes/kubernetes,Problem is resolved in subsequent comments
+kubernetes/kubernetes#22355,217,CONTRIBUTOR,MEMBER,Problem,Add problem statement,Add,1,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#113556,3887015,MEMBER,MEMBER,Implementation,Add release notes,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#33080,4383432,MEMBER,CONTRIBUTOR,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#112950,332609,MEMBER,CONTRIBUTOR,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#99424,5342875,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#40312,264704,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#95069,1572418,CONTRIBUTOR,MEMBER,Implementation,Update release notes,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#55172,199907,CONTRIBUTOR,MEMBER,Implementation,Update release notes,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#6195,694031,NONE,MEMBER,Problem,Add related issue,Add,0,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#98829,3307839,MEMBER,MEMBER,Implementation,Add function summary,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#98829,3307839,MEMBER,MEMBER,Problem,Update related issue,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#98772,678714,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,0,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#109111,8696668,MEMBER,CONTRIBUTOR,Problem,Add related issue,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#53328,705577,NONE,MEMBER,Implementation,Update function summary,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#112373,4533871,CONTRIBUTOR,MEMBER,Problem,Update related issue,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#113232,13301874,NONE,CONTRIBUTOR,Motivation,Add motivation,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#39656,816754,CONTRIBUTOR,NONE,Miscellaneous,Add follow-up work,Add,1,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#102901,564865,MEMBER,MEMBER,Problem,Update related issue,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#56911,840454,MEMBER,CONTRIBUTOR,Problem,Add related issue,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#102147,111978,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#105347,3811319,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#105347,3811319,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#94125,1605223,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,1,0,kubernetes/kubernetes,Suggestion is incorrect
+kubernetes/kubernetes#96806,3744281,CONTRIBUTOR,MEMBER,Implementation,Update release notes,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#10753,1563469,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,1,0,kubernetes/kubernetes,Suggestion is incorrect
+kubernetes/kubernetes#69209,2395655,MEMBER,MEMBER,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#112988,271252,CONTRIBUTOR,MEMBER,Implementation,Update function summary,Update,1,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#99999,587131,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,1,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#71922,1832236,CONTRIBUTOR,MEMBER,Miscellaneous,Format change,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#115453,33805,CONTRIBUTOR,MEMBER,Quality,Add test,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#41410,83181,MEMBER,CONTRIBUTOR,Motivation,Add motivation,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#102158,80424,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#31652,5206718,MEMBER,CONTRIBUTOR,Implementation,Add effect,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#77623,2816173,MEMBER,MEMBER,Implementation,Update function summary,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#32351,60191,MEMBER,MEMBER,Implementation,Add trade-off,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#15645,4162589,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,1,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#115019,9162574,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#52616,24066134,MEMBER,MEMBER,Problem,Update problem statement,Update,0,0,kubernetes/kubernetes,Problem is resolved in subsequent comments
+kubernetes/kubernetes#115149,4315065,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#45492,1527395,NONE,CONTRIBUTOR,Problem,Update problem statement,Update,1,0,kubernetes/kubernetes,Problem is resolved in subsequent comments
+kubernetes/kubernetes#40674,64434866,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add function summary,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#39852,2721478,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#40206,2507236,MEMBER,MEMBER,Problem,Update related issue,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#90365,3115092,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#36245,5234807,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,1,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#96656,13267713,MEMBER,CONTRIBUTOR,Motivation,Add motivation,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#53031,2053637,MEMBER,MEMBER,Motivation,Add motivation,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#111339,7533786,MEMBER,CONTRIBUTOR,Implementation,Update function summary,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#111339,7533786,MEMBER,CONTRIBUTOR,Motivation,Add motivation,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#78280,4140269,NONE,NONE,Problem,Add related issue,Add,1,0,kubernetes/kubernetes,Suggestion is incorrect
+kubernetes/kubernetes#110191,1192938,MEMBER,MEMBER,Problem,Update related issue,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#45952,489461,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#107028,67863,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,0,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#47421,8630170,NONE,CONTRIBUTOR,Implementation,Add release notes,Add,0,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#116968,9677718,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update function summary,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#98096,884149,CONTRIBUTOR,MEMBER,Implementation,Update release notes,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#32378,116002,MEMBER,MEMBER,Implementation,Add trade-off,Add,1,0,kubernetes/kubernetes,Suggestion is posted after PR closure
+kubernetes/kubernetes#112914,2717937,CONTRIBUTOR,CONTRIBUTOR,Implementation,Update release notes,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#73323,2186873,CONTRIBUTOR,NONE,Miscellaneous,Format change,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#73323,2186873,CONTRIBUTOR,NONE,Implementation,Update function summary,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#42576,16430053,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#63413,26780181,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add technical details,Add,0,0,kubernetes/kubernetes,Problem is resolved in subsequent comments
+kubernetes/kubernetes#36603,346800,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#63453,2656851,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#63453,2656851,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#23267,11791730,CONTRIBUTOR,MEMBER,Implementation,Add function summary,Add,0,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#47436,31861087,NONE,MEMBER,Problem,Add related issue,Add,0,0,kubernetes/kubernetes,Suggestion is incorrect
+kubernetes/kubernetes#98311,588699,MEMBER,CONTRIBUTOR,Implementation,Update function summary,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#108410,154097,CONTRIBUTOR,MEMBER,Miscellaneous,Format change,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#103508,277673,CONTRIBUTOR,MEMBER,Problem,Update related issue,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#6959,46057,CONTRIBUTOR,MEMBER,Motivation,Add motivation,Add,1,0,kubernetes/kubernetes,Problem is resolved in subsequent comments
+kubernetes/kubernetes#2142,4871,MEMBER,MEMBER,Implementation,Update function summary,Update,1,0,kubernetes/kubernetes,Problem is resolved in subsequent comments
+kubernetes/kubernetes#54355,6735339,MEMBER,CONTRIBUTOR,Implementation,Update function summary,Update,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#32194,10670,MEMBER,MEMBER,Implementation,Add trade-off,Add,1,0,kubernetes/kubernetes,Suggestion is posted after PR closure
+kubernetes/kubernetes#98847,3160109,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#115318,10427518,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#113160,1674947,MEMBER,MEMBER,Implementation,Update release notes,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#93702,2434526,CONTRIBUTOR,MEMBER,Miscellaneous,Format change,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#93702,2434526,CONTRIBUTOR,MEMBER,Implementation,Update release notes,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#113503,539589,MEMBER,MEMBER,Motivation,Add motivation,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#77314,454187,CONTRIBUTOR,CONTRIBUTOR,Problem,Add problem statement,Add,1,0,kubernetes/kubernetes,Problem is resolved in subsequent comments
+kubernetes/kubernetes#22772,88552,NONE,MEMBER,Problem,Add related issue,Add,1,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#36050,3240265,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#88866,10107376,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#110747,11463114,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,1,0,kubernetes/kubernetes,Suggestion is incorrect
+kubernetes/kubernetes#43545,1714681,NONE,MEMBER,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#99519,4839881,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#115749,777223,CONTRIBUTOR,MEMBER,Implementation,Update release notes,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#83498,1012094,CONTRIBUTOR,CONTRIBUTOR,Problem,Update related issue,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#110294,1280848,CONTRIBUTOR,MEMBER,Implementation,Update release notes,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#32182,51402,CONTRIBUTOR,MEMBER,Implementation,Add trade-off,Add,1,0,kubernetes/kubernetes,Suggestion is posted after PR closure
+kubernetes/kubernetes#87863,91658603,NONE,MEMBER,Problem,Add related issue,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#32515,7166,CONTRIBUTOR,MEMBER,Implementation,Add trade-off,Add,1,0,kubernetes/kubernetes,Suggestion is posted after PR closure
+kubernetes/kubernetes#113916,9683249,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,1,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#54215,1950548,CONTRIBUTOR,NONE,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#35805,4596344,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#42546,34009585,NONE,MEMBER,Problem,Add related issue,Add,0,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#4780,1122556,CONTRIBUTOR,MEMBER,Implementation,Update function summary,Update,1,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#57578,12440240,MEMBER,MEMBER,Implementation,Update release notes,Update,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#32275,11599,MEMBER,MEMBER,Implementation,Add trade-off,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#73202,76688,MEMBER,MEMBER,Implementation,Add function summary,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#104101,135082,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,0,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#115363,1732767,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#23756,1139230,CONTRIBUTOR,MEMBER,Implementation,Update function summary,Update,1,0,kubernetes/kubernetes,Problem is resolved in subsequent comments
+kubernetes/kubernetes#110937,1899068,MEMBER,CONTRIBUTOR,Motivation,Add motivation,Add,0,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#110937,1899068,MEMBER,CONTRIBUTOR,Problem,Add related issue,Add,0,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#115471,321111,NONE,CONTRIBUTOR,Implementation,Add release notes,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#49142,4020583,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#105935,1366674,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#101960,1230459,MEMBER,MEMBER,Problem,Add related issue,Add,1,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#61592,21515296,CONTRIBUTOR,CONTRIBUTOR,Problem,Add related issue,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#47579,718680,MEMBER,MEMBER,Problem,Update related issue,Update,1,0,kubernetes/kubernetes,Suggestion is incorrect
+kubernetes/kubernetes#54144,102444,MEMBER,MEMBER,Implementation,Add release notes,Add,0,0,kubernetes/kubernetes,Suggestion is posted after PR closure
+kubernetes/kubernetes#98262,11288370,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#77751,414810,CONTRIBUTOR,MEMBER,Problem,Update related issue,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#115399,6163143,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#111634,18973059,CONTRIBUTOR,MEMBER,Problem,Update related issue,Update,1,0,kubernetes/kubernetes,Problem is resolved in subsequent comments
+kubernetes/kubernetes#35806,683059,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#36492,397208,MEMBER,MEMBER,Problem,Add related issue,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#55728,1130301,MEMBER,MEMBER,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#110193,16207339,NONE,MEMBER,Problem,Update related issue,Update,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#106553,1027324,MEMBER,MEMBER,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#82100,1122671,MEMBER,MEMBER,Implementation,Update category of pull request,Update,0,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#102275,1444191,CONTRIBUTOR,MEMBER,Problem,Update related issue,Update,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#44950,1615039,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#55026,2266202,CONTRIBUTOR,MEMBER,Implementation,Update function summary,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#89870,770031,CONTRIBUTOR,MEMBER,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#31828,770282,NONE,MEMBER,Implementation,Add trade-off,Add,1,0,kubernetes/kubernetes,Suggestion is posted after PR closure
+kubernetes/kubernetes#29284,586363,CONTRIBUTOR,CONTRIBUTOR,Motivation,Add motivation,Add,1,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#67403,19898376,NONE,MEMBER,Implementation,Add release notes,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#69878,1948621,CONTRIBUTOR,MEMBER,Implementation,Update function summary,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#99195,495637,MEMBER,MEMBER,Implementation,Update function summary,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#85412,1276219,MEMBER,MEMBER,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#89251,2164631,MEMBER,CONTRIBUTOR,Implementation,Add release notes,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#111620,172614,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,1,0,kubernetes/kubernetes,Suggestion is incorrect
+kubernetes/kubernetes#64930,6980046,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#46743,657086,MEMBER,MEMBER,Problem,Add related issue,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#55218,5086302,NONE,CONTRIBUTOR,Implementation,Add effect,Add,1,0,kubernetes/kubernetes,Problem is resolved in subsequent comments
+kubernetes/kubernetes#51660,805143,MEMBER,MEMBER,Problem,Add related issue,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#75547,1116736,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#84335,1771981,MEMBER,MEMBER,Implementation,Update function summary,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#87455,302064,MEMBER,MEMBER,Problem,Update related issue,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#105159,229082,MEMBER,MEMBER,Problem,Add related issue,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#34700,868523,CONTRIBUTOR,MEMBER,Implementation,Add effect,Add,0,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#100540,21539,MEMBER,MEMBER,Problem,Add problem statement,Add,1,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#102354,4695901,MEMBER,MEMBER,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#61130,1295443,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#8740,440953,MEMBER,MEMBER,Implementation,Add release notes,Add,1,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#91145,1071456,MEMBER,MEMBER,Implementation,Update release notes,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#113422,420637,MEMBER,CONTRIBUTOR,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#80024,732483,MEMBER,MEMBER,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#80176,612817,CONTRIBUTOR,CONTRIBUTOR,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#96828,39970901,CONTRIBUTOR,MEMBER,Implementation,Update function summary,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#88615,349841,MEMBER,MEMBER,Motivation,Add motivation,Add,0,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#57262,1010958,MEMBER,MEMBER,Implementation,Add release notes,Add,0,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#113161,17991794,MEMBER,MEMBER,Implementation,Update release notes,Update,0,0,kubernetes/kubernetes,No explanation given
+kubernetes/kubernetes#96907,318792,MEMBER,MEMBER,Problem,Update related issue,Update,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#89883,21101168,NONE,CONTRIBUTOR,Implementation,Add release notes,Add,0,1,kubernetes/kubernetes,
+kubernetes/kubernetes#57194,4737819,CONTRIBUTOR,MEMBER,Problem,Add related issue,Add,1,1,kubernetes/kubernetes,
+kubernetes/kubernetes#67778,6020747,MEMBER,NONE,Implementation,Add release notes,Add,1,1,kubernetes/kubernetes,
